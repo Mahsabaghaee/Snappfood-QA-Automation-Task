@@ -1,0 +1,10 @@
+robotframework==6.0.1
+requests==2.26.0
+robotframework-requests
+robotframework-httplibrary
+robotframework-pythonlibcore
+robotframework-faker
+robotframework-seleniumlibrary
+robotframework-selenium2library
+webdrivermanager
+
